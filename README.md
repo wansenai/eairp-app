@@ -1,6 +1,6 @@
 # eairp_app
 
-A Flutter project.
+Currently not open sourced
 
 ## Getting Started
 
